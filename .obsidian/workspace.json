@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b00f829f10c06ee",
+        "id": "5e87d52ed51202c4",
         "type": "tabs",
         "children": [
           {
-            "id": "9e71be40d14d4a5f",
+            "id": "395f98b9ab9bbe16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-基础语法/基本语法：06-变量命名规则.md",
+                "file": "java-4. 循环和条件/循环和条件：00-预习与学习指南.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本语法：06-变量命名规则"
+              "title": "循环和条件：00-预习与学习指南"
             }
           }
         ]
@@ -171,46 +171,53 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "9e71be40d14d4a5f",
+  "active": "20351f8b21a87a9a",
   "lastOpenFiles": [
+    "java-5.数组",
+    "java-4. 循环和条件/循环和条件：01-if 语句.md",
+    "java-4. 循环和条件/循环和条件：07-控制流程语句对比总结.md",
+    "java-4. 循环和条件/循环和条件：06-break 和 continue 语句.md",
+    "java-4. 循环和条件/循环和条件：00-预习与学习指南.md",
+    "java-3. 基础语法/基本语法：00-预习与学习指南.md",
+    "java-3. 基础语法/基本语法：11-Scanner（用户输入）.md",
+    "java-3. 基础语法/基本语法：02-注释.md",
+    "java-3. 基础语法/基本语法：01-Hello World.md",
+    "11-Scanner（用户输入）.md",
+    "java-3. 基础语法/基本语法：10-打印（输出）语句.md",
+    "java-3. 基础语法/基本语法：09-类型转换.md",
+    "java-3. 基础语法/基本语法：08-运算符优先级.md",
+    "java-3. 基础语法/基本语法：06-变量命名规则.md",
+    "java-3. 基础语法/基本语法：05-变量.md",
+    "java-4. 循环和条件/循环和条件：03-for 循环.md",
+    "java-4. 循环和条件/循环和条件：02-switch语句.md",
+    "java-4. 循环和条件/循环和条件：04-while循环.md",
+    "java-4. 循环和条件/循环和条件：05-do-while 循环.md",
+    "java-3. 基础语法/基本语法：07-运算符.md",
+    "Java boolean 类型.md",
+    "java-4. 循环和条件",
+    "Java-2. 开发环境配置/Java-开发环境配置.md",
+    "Java-2. 开发环境配置/01-Windows 系统安装 Java.md",
+    "Java-2. 开发环境配置/02-流行 Java 开发工具 介绍.md",
     "img/Java-开发环境配置/java-66.png",
-    "java-基础语法/基本语法：01-Hello World.md",
-    "java-基础语法/基本语法：06-变量命名规则.md",
-    "java-基础语法/基本语法：02-注释.md",
-    "java-基础语法/基本语法：03-对象和类的基本认识.md",
-    "java-基础语法/基本语法：04-基本数据类型.md",
-    "java-基础语法/基本语法：05-变量.md",
-    "未命名",
-    "Java-开发环境配置/01-Windows 系统安装 Java.md",
+    "java-3. 基础语法/基本语法：03-对象和类的基本认识.md",
+    "java-3. 基础语法/基本语法：04-基本数据类型.md",
     "未命名.canvas",
     "未命名.base",
-    "java-介绍/01-什么是Java.md",
     "未命名 1.base",
-    "java-介绍/02-Java的主要特性.md",
-    "java-基础语法",
-    "Java-开发环境配置/Java-开发环境配置.md",
-    "java-介绍/Java-简介.md",
-    "Java-开发环境配置/02-流行 Java 开发工具 介绍.md",
-    "java-介绍/04-Java开发工具.md",
-    "java-介绍/03-Java发展历史.md",
-    "Java-开发环境配置/Linux／UNIX／Solaris／FreeBSD 环境变量设置.md",
+    "java-3. 基础语法",
     "img/Java-开发环境配置/java-win8.png",
     "img/Java-开发环境配置/java-win7 1.png",
     "img/Java-开发环境配置/java-win7.png",
     "img/Java-开发环境配置/java-win5.png",
     "img/Java-开发环境配置/java-win5 1.png",
     "img/Java-开发环境配置/44A70696-B2E6-4055-B88F-7FC0222DCCA4.png",
-    "欢迎.md",
     "img/Java-开发环境配置/java-win3.png",
     "img/Java-开发环境配置",
     "img",
     "img/Java-开发环境配置/java-win2.png",
     "img/Java-开发环境配置/win-java1.png",
-    "img/Java-开发环境配置/jdk-download 1.png",
-    "Java-开发环境配置",
-    "未命名.md",
-    "java快速入门/Java是什么.md",
-    "java-介绍",
+    "Java-2. 开发环境配置",
+    "java-1. 介绍",
     "java"
   ]
 }
