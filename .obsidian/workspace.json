@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e87d52ed51202c4",
+        "id": "81b9526ab57a2d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "395f98b9ab9bbe16",
+            "id": "6cbe880b985e2aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-4. 循环和条件/循环和条件：00-预习与学习指南.md",
-                "mode": "preview",
+                "file": "java-5.控制流程语句练习/02-用户输入两个数字并相加.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "循环和条件：00-预习与学习指南"
+              "title": "02-用户输入两个数字并相加"
             }
           }
         ]
@@ -173,11 +173,24 @@
   },
   "active": "20351f8b21a87a9a",
   "lastOpenFiles": [
-    "java-5.数组",
-    "java-4. 循环和条件/循环和条件：01-if 语句.md",
+    "java-5.控制流程语句练习/01-生成随机数.md",
+    "java-5.控制流程语句练习/02-用户输入两个数字并相加.md",
+    "java-5.控制流程语句练习/03-根据年月判断天数.md",
+    "java-5.控制流程语句练习/04-判断平年与闰年.md",
+    "java-5.控制流程语句练习/05-输出 1900 到 2000 年的所有闰年.md",
+    "java-5.控制流程语句练习/06-判断质数.md",
+    "java-5.控制流程语句练习/07-输出 1~100 的所有质数.md",
+    "java-5.控制流程语句练习/08-猜数字小游戏.md",
+    "java-6.数组/数组：01-Array.md",
+    "java-6.数组/数组：00-预习与学习指南.md",
     "java-4. 循环和条件/循环和条件：07-控制流程语句对比总结.md",
-    "java-4. 循环和条件/循环和条件：06-break 和 continue 语句.md",
+    "java-5.控制流程语句练习",
+    "java-6.数组/数组：03-二维数组.md",
+    "java-6.数组/数组：02-常用的API.md",
     "java-4. 循环和条件/循环和条件：00-预习与学习指南.md",
+    "java-6.数组",
+    "java-4. 循环和条件/循环和条件：01-if 语句.md",
+    "java-4. 循环和条件/循环和条件：06-break 和 continue 语句.md",
     "java-3. 基础语法/基本语法：00-预习与学习指南.md",
     "java-3. 基础语法/基本语法：11-Scanner（用户输入）.md",
     "java-3. 基础语法/基本语法：02-注释.md",
@@ -188,19 +201,8 @@
     "java-3. 基础语法/基本语法：08-运算符优先级.md",
     "java-3. 基础语法/基本语法：06-变量命名规则.md",
     "java-3. 基础语法/基本语法：05-变量.md",
-    "java-4. 循环和条件/循环和条件：03-for 循环.md",
-    "java-4. 循环和条件/循环和条件：02-switch语句.md",
-    "java-4. 循环和条件/循环和条件：04-while循环.md",
-    "java-4. 循环和条件/循环和条件：05-do-while 循环.md",
-    "java-3. 基础语法/基本语法：07-运算符.md",
-    "Java boolean 类型.md",
     "java-4. 循环和条件",
-    "Java-2. 开发环境配置/Java-开发环境配置.md",
-    "Java-2. 开发环境配置/01-Windows 系统安装 Java.md",
-    "Java-2. 开发环境配置/02-流行 Java 开发工具 介绍.md",
     "img/Java-开发环境配置/java-66.png",
-    "java-3. 基础语法/基本语法：03-对象和类的基本认识.md",
-    "java-3. 基础语法/基本语法：04-基本数据类型.md",
     "未命名.canvas",
     "未命名.base",
     "未命名 1.base",
@@ -217,7 +219,6 @@
     "img/Java-开发环境配置/java-win2.png",
     "img/Java-开发环境配置/win-java1.png",
     "Java-2. 开发环境配置",
-    "java-1. 介绍",
-    "java"
+    "java-1. 介绍"
   ]
 }
