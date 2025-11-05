@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80f335212f0ab1dc",
+        "id": "c5627fa244c356a5",
         "type": "tabs",
         "children": [
           {
-            "id": "b9222454ba10e79b",
+            "id": "66294add73e8d132",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-13.继承/00-预习与学习指南.md",
+                "file": "java-14.多态/01-认识多态.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-预习与学习指南"
+              "title": "01-认识多态"
             }
           }
         ]
@@ -181,10 +181,16 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "b9222454ba10e79b",
+  "active": "66294add73e8d132",
   "lastOpenFiles": [
-    "java-12.封装/00-预习与学习指南.md",
+    "java-14.多态/00-预习与学习指南.md",
     "java-13.继承/00-预习与学习指南.md",
+    "java-14.多态/01-认识多态.md",
+    "java-14.多态/02-多态的好处.md",
+    "java-14.多态/03-多态下的类型转换问题.md",
+    "java-14.多态",
+    "java-13.继承/08-构造器用 this调用兄弟构造器.md",
+    "java-12.封装/00-预习与学习指南.md",
     "java-11.对象/00-预习与学习指南.md",
     "java-10.方法/00-预习与学习指南.md",
     "java-12.封装/01-对象的封装.md",
@@ -199,17 +205,12 @@
     "java-12.封装/04-JavaBean 规范.md",
     "java-12.封装/03-getter 与 setter 方法.md",
     "java-12.封装/02-成员变量与成员方法.md",
-    "java-13.继承/08-构造器用 this调用兄弟构造器.md",
     "java-13.继承/07-子类构造器的特点与应用场景.md",
     "java-13.继承/06-继承后的特点.md",
     "java-13.继承/05-super 关键字.md",
     "java-13.继承/04-方法重写-应用场景：toString() 方法.md",
     "java-11.对象/07-this 的位置.md",
-    "java-11.对象/06-this 关键字.md",
-    "java-11.对象/02- 类（Class）.md",
     "java-13.继承",
-    "java-11.对象/09-final关键字.md",
-    "java-3. 基础语法/05-变量.md",
     "java-12.封装",
     "java-11.对象",
     "未命名.canvas",
@@ -219,7 +220,6 @@
     "java-8.字符和字符串",
     "java-5.控制流程语句练习",
     "java-6.数组",
-    "java-4. 循环和条件",
     "img/Java-开发环境配置/java-66.png",
     "img/Java-开发环境配置/java-win8.png",
     "img/Java-开发环境配置/java-win7 1.png",
