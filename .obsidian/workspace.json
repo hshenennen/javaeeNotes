@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "66b62a38e6beba42",
+        "id": "80f335212f0ab1dc",
         "type": "tabs",
         "children": [
           {
-            "id": "92d9dead08769a73",
+            "id": "b9222454ba10e79b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "java-13.继承/00-预习与学习指南.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00-预习与学习指南"
             }
           }
         ]
@@ -177,35 +181,35 @@
       "githobs:Manage a github issue": false
     }
   },
-  "active": "20351f8b21a87a9a",
+  "active": "b9222454ba10e79b",
   "lastOpenFiles": [
+    "java-12.封装/00-预习与学习指南.md",
+    "java-13.继承/00-预习与学习指南.md",
+    "java-11.对象/00-预习与学习指南.md",
+    "java-10.方法/00-预习与学习指南.md",
+    "java-12.封装/01-对象的封装.md",
+    "java-11.对象/05-static关键字.md",
+    "java-11.对象/04-有参构造 vs 无参构造.md",
+    "java-11.对象/03-构造方法.md",
+    "java-11.对象/01-对象的定义.md",
+    "java-13.继承/01-认识继承.md",
+    "java-13.继承/03-方法的重写.md",
+    "java-13.继承/02-访问修饰符.md",
     "java-12.封装/05-Lombok.md",
     "java-12.封装/04-JavaBean 规范.md",
     "java-12.封装/03-getter 与 setter 方法.md",
     "java-12.封装/02-成员变量与成员方法.md",
-    "java-12.封装/01-对象的封装.md",
     "java-13.继承/08-构造器用 this调用兄弟构造器.md",
     "java-13.继承/07-子类构造器的特点与应用场景.md",
     "java-13.继承/06-继承后的特点.md",
     "java-13.继承/05-super 关键字.md",
     "java-13.继承/04-方法重写-应用场景：toString() 方法.md",
-    "java-13.继承/03-方法的重写.md",
-    "java-13.继承/02-访问修饰符.md",
-    "java-13.继承/01-认识继承.md",
     "java-11.对象/07-this 的位置.md",
     "java-11.对象/06-this 关键字.md",
-    "java-11.对象/05-static关键字.md",
-    "java-11.对象/04-有参构造 vs 无参构造.md",
     "java-11.对象/02- 类（Class）.md",
-    "java-11.对象/03-构造方法.md",
-    "java-11.对象/01-对象的定义.md",
     "java-13.继承",
     "java-11.对象/09-final关键字.md",
-    "java-11.对象/未命名.md",
     "java-3. 基础语法/05-变量.md",
-    "java-11.对象/10-static-静态变量与静态方法.md",
-    "java-10.方法/00-预习与学习指南.md",
-    "java-11.面向对象-封装/00-预习与学习指南.md",
     "java-12.封装",
     "java-11.对象",
     "未命名.canvas",
